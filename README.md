@@ -2,7 +2,7 @@
 
 This is the capstone project of the Google Data Analytics Professional Certificate course, which aims to demonstrate my technical and analytical skills for an entry-level Data Analyst Position.
 
-In this BI project I used the R (tidyverse packages) to clean, manipulate and analyze the dataset, and I also create an interactive dashboard in Tableau, in order to create appealing visualizations that allow comparing the type of behavior of the two types of users: casual riders and annual members.
+In this BI project I used R (tidyverse packages) to clean, manipulate and analyze the dataset, and I also create an interactive dashboard in Tableau, in order to create appealing visualizations that allow comparing the type of behavior of the two types of users: casual riders and annual members.
 
 ## Summary
 
