@@ -295,7 +295,7 @@ A interactive dashboard with all supporting views and conclusions has been creat
 
 ### Percentage of Rides per Season
 
-![season](https://user-images.githubusercontent.com/129385224/228984744-4b2a5d16-12f9-4d16-aecf-6e1e6aed87b4.png)
+![season](https://user-images.githubusercontent.com/129385224/229159561-c51dcc19-bf81-4299-843e-6a1433976a36.png)
 
 **Findings:**
 
@@ -319,7 +319,7 @@ A interactive dashboard with all supporting views and conclusions has been creat
 
 ### Percentage of Rides per Weekday
 
-![weekday](https://user-images.githubusercontent.com/129385224/228985070-0ffb7f12-f01e-4baa-a298-045c4e208b5d.png)
+![weekday](https://user-images.githubusercontent.com/129385224/229160266-026f19df-5350-41d0-816a-92a3bb327bb4.png)
 
 **Findings:**
 
@@ -339,7 +339,7 @@ A interactive dashboard with all supporting views and conclusions has been creat
 
 ### Percentage of Rides per Time of Day
 
-![time_of_day](https://user-images.githubusercontent.com/129385224/228985218-15bba7c2-041e-4466-9762-551fa9bc4745.png)
+![time_of_day](https://user-images.githubusercontent.com/129385224/229161411-d1576da8-4cb2-4247-89ff-ff9b61339bc6.png)
 
 **Observations:**
 
