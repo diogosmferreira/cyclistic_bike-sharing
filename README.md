@@ -2,7 +2,7 @@
 
 This is the capstone project of the Google Data Analytics Professional Certificate course, which aims to demonstrate my technical and analytical skills for an entry-level Data Analyst Position.
 
-In this BI project, I used R (tidyverse packages) to clean, manipulate, and analyze the dataset. I also created an [interactive dashboard](https://public.tableau.com/app/profile/diogo.ferreira1451/viz/Cyclistic_bikeshare_2022/Cyclistic_2022_Analysis?publish=yes) in Tableau to create appealing visualizations that allow for comparing the behavior of two types of users: casual riders and annual members.
+In this BI project, I used R (tidyverse packages) to clean, manipulate, and analyze the dataset. I also created an [interactive dashboard](https://public.tableau.com/app/profile/diogo.ferreira1451/viz/Cyclistic_bikeshare_2022/Cyclistic_2022_Analysis?publish=yes) in Tableau that allow for comparing the behavior of two types of users: casual riders and annual members.
 
 ## Summary
 
