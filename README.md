@@ -109,7 +109,7 @@ Cyclistic_2022 <- rename(Cyclistic_2022, bike_type=rideable_type, user_type=memb
 
 ### 3. Data cleaning and manipulation
 
-In order to verify the need for data cleaning, all columns of interest were checked for the existence of null values, duplicate entries, validity of data range, and unique values according to their specificity. Everything was in order. Below are some examples of these checks:
+In order to verify the need for data cleaning, all columns of interest were checked for the existence of null values, duplicate entries, validity of data range, and unique values according to their specificity. Below are some examples of these checks:
 
 * Check null values
 
